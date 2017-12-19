@@ -1,0 +1,11 @@
+{
+"id":                  1,
+"title":               "title",
+"description":         "description",
+"start_at":            "start_at",
+"ends_at":             "ends_at",
+"category":            "category",
+"state":               "published",
+"image_url":           "http://ex.com/animals/1",
+"is_single_day_event": true,
+}
